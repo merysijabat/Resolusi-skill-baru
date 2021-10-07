@@ -2,5 +2,5 @@ RESOLUSI SKILL BARU
 - git introduction
 - design ui/ux
 -software engineering
-- coding
 - spss
+- eviews
