@@ -4,3 +4,4 @@ RENCANA BELAJAR
 *situs
 -website
 -hackathon
+-javascript
