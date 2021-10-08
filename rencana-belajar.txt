@@ -2,5 +2,6 @@ RENCANA BELAJAR
 
 -html
 *situs
+*angular
 -website
 -hackathon
