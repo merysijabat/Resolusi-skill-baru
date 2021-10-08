@@ -1,5 +1,6 @@
 RENCANA BELAJAR
 
 -html
+*situs
 -website
 -hackathon
